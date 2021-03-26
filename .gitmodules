@@ -1,3 +1,6 @@
 [submodule "slack_home-cooked"]
 	path = slack_home-cooked
 	url = https://github.com/antoci-alin/slack_home-cooked.git
+[submodule "whatsapp_home-cooked"]
+	path = whatsapp_home-cooked
+	url = https://github.com/antoci-alin/whatsapp_home-cooked.git
